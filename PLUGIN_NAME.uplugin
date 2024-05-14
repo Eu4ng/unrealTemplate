@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "PLUGIN_NAME",
+	"Description": "",
+	"Category": "Content",
+	"CreatedBy": "Eu4ng",
+	"CreatedByURL": "https://github.com/Eu4ng",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
